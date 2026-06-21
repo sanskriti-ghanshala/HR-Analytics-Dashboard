@@ -122,11 +122,6 @@ The HR Analytics dataset contains information related to:
 
 ---
 
-## 📸 Dashboard Preview
-
-<img width="1466" height="825" alt="Screenshot 2026-06-21 202723" src="https://github.com/user-attachments/assets/a378a5a0-65e6-47e2-82cf-9900b43ed8bc" />
-
-
 ## 🔍 How to Use
 
 1. Download the repository.
